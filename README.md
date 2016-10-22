@@ -20,7 +20,7 @@ Easy http/html server in Java language
 
 <pre>
     <code>
-        java -jar jar/HTMLServeur <absolute path> <port number>
+        java -jar jar/HTMLServeur absolute_path port_number
     </code>
 </pre>
 
