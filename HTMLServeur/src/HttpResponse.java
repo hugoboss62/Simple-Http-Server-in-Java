@@ -10,7 +10,7 @@ public class HttpResponse {
 
     /**
      * Permits to respond of the http request
-     * @param hr
+     * @param hr Contains all the information to send response
      */
     public HttpResponse(HttpRequest hr) {
         this.httpRequest = hr;
