@@ -2,4 +2,4 @@
 
 path=`pwd`'/website/'
 
-java -jar HTMLServeur/jar/HTMLServeur.jar $path 2000
+java -jar HTMLServeur/jar/HTMLServeur $path 2000
