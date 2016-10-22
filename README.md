@@ -5,9 +5,11 @@ Easy http/html server in Java language
 ## Differents executions
 
 ### Easy execution
+
 - path : /.../website/
 - port number : 2000
 - In navigator : http://localhost:2000
+
 <pre>
     <code>
         ./exec
