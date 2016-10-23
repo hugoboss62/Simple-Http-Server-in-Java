@@ -1,4 +1,4 @@
-# Simple-Http-Server-in-Java
+# Simple Http Server in Java - Hugues Wattez
 
 Easy http/html server in Java language
 
